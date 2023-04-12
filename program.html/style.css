@@ -1,0 +1,50 @@
+
+.aa{
+    background-color: var(rgb(204, 127, 255));
+    color: darkred;
+}
+.ll{
+    background-color: rgb(120, 211, 0);
+}
+.mm{
+    background-color: aquamarine;
+    color: rgb(184, 22, 22);
+}
+.nn{
+background-color: rgb(165, 42, 52);
+color: bisque;
+}
+
+
+.oo{
+    background-color: #0e0708;
+    color: white;
+}
+.bb{
+    background-color:orchid;
+    color: black;
+    font-size: larger;
+    font-style: normal;
+    max-width: fit-content;
+    font-family: unset;
+    flood-color: calc(aquamarine);
+    
+}
+.zz{
+    background-color:yellow;
+    color: darkgreen;
+    font-size: larger;
+}
+.ff{
+    background-color: darkviolet;
+    background-image: -webkit-radial-gradient();
+    color: white;
+    font-family: fantasy;
+    font-weight: bold;
+    box-shadow: inset;
+
+}
+.mm{
+    background-color: lightgreen;
+    color: black;
+}
